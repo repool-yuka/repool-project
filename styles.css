@@ -4,3 +4,5 @@
 .split-inner>*,.training-heading>*{min-width:0}
 .recruit-label br{display:none}
 @media(max-width:760px){.recruit-label{line-height:1.8;letter-spacing:.08em;white-space:nowrap}.recruit-label br{display:block}}
+
+.training-scene-photo img{height:auto;aspect-ratio:3/2;object-fit:contain}.training-scene-photo figcaption{font-size:11px;color:var(--muted);line-height:1.8;margin-top:12px;letter-spacing:.035em}
